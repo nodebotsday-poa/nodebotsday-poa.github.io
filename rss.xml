@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>NodebotsDay Porto Alegre</title>
+        <link>http://nodebotsday-poa.github.io</link>
+        <description>Um dia para aprender sobre hardware usando JavaScript</description>
+        <managingEditor>@nodebotsday-poa</managingEditor>
+        <webMaster>@nodebotsday-poa</webMaster>
+        <pubDate>Mon, 13 Jul 2015 05:07:42 GMT</pubDate>
+        <language>pt-br</language>
+        <atom:link href="http://nodebotsday-poa.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>hello</title>
+            <link>http://nodebotsday-poa.github.io/2015/07/hello</link>
+            <description><![CDATA[<h1 id="hello">hello</h1>
+]]></description>
+            <pubDate>Mon, 13 Jul 2015 02:15:17 GMT</pubDate>
+            <guid>http://nodebotsday-poa.github.io/2015/07/hello</guid>
+        </item>
+        
+    </channel>
+</rss>

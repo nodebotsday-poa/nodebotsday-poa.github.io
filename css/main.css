@@ -1,0 +1,52 @@
+body {
+	margin-bottom: 63px;
+	background-color: #e6d356;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.main {
+
+}
+
+footer {
+	text-align: center;
+	height: 53px;
+	/*background: rgb(240, 240, 240);*/
+	color: #FFF;
+	background: #000;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding-top: 25px;
+}
+
+.categories {
+	margin-bottom: 1rem;
+	list-style: none;
+	display: inline;
+	margin: 2px;
+	background: rgb(229, 227, 227);
+	border: solid gray 1px;
+	border-radius: 5px;
+	padding: 4px;
+}
+
+.social span {
+	margin: 5px;
+}
+
+.content {
+	padding-bottom: 230px;
+}
+
+.nodebots-logo {
+	/*float: right;*/
+	/*width: 60%;*/
+}
+
+.nodebots-logo img {
+	width: 100%;
+}
