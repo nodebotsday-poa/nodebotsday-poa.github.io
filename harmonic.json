@@ -1,0 +1,25 @@
+{
+    "name": "Nodebots Porto Alegre",
+    "title": "Nodebots Porto Alegre",
+    "domain": "http://awesome.com",
+    "subtitle": "Powered by Harmonic",
+    "author": "@nodebotspoa",
+    "description": "Side da comunidade Nodebots em Porto Alegre",
+    "bio": "Thats me",
+    "theme": "harmonic-theme-default",
+    "preprocessor": "stylus",
+    "posts_permalink": ":language/:year/:month/:title",
+    "pages_permalink": ":language/pages/:title",
+    "header_tokens": [
+        "<!--",
+        "-->"
+    ],
+    "index_posts": 10,
+    "i18n": {
+        "default": "en",
+        "languages": [
+            "en",
+            "pt-br"
+        ]
+    }
+}
