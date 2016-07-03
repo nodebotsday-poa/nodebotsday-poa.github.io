@@ -67,8 +67,31 @@ footer {
 	height: 100%;
 }
 
+.image-gallery {
+	list-style: none;
+}
+
+.image-gallery .image-container {
+	display: table-cell;
+	padding-right: 10px;
+	vertical-align: middle;
+}
+
+.image-gallery .image-container:last {
+	padding-right: 10px;
+}
+
+.image-gallery .image-container img {
+	width: 100%;
+}
+
 @media (max-width: 550px) {
 	.nodebots-logo {
 		display: none;
+	}
+
+	.image-gallery .image-container {
+		display: block;
+		padding-right: 0;
 	}
 }
